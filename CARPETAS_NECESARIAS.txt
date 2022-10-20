@@ -1,0 +1,1 @@
+Es neceario crear dos carpetas con los nombres Historial_Agrupadores y PedidosEnCola en el mísmo directorio de app.py
